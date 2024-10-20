@@ -1,0 +1,3 @@
+@echo off
+echo Deactivating virtual environment...
+call venv\Scripts\deactivate.bat

@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=ot6UM1BQ3JI&list=PL4bT56Uw3S4zJcf33ijU-XyKNSDRQ0efh&index=5
+
+Multiplicación de Matrices:
+- Para multiplicar dos matricies A y B
+	se requiere que el número de columnas de A sea igual al número de filas de B
+	El resultado será una matriz con filas A y Columnas B
+	Si es posible AxB, no siempre se posible BxA. No es conmutativa
+Transposición:
+	Se intercambia filas por columnas
+	(A x B)T = BT X AT
+
+Suma y Resta
+	Se resta elemento con su homólogo en la siguiente matriz.
+	Las dos matrices tienen la misma dimensión
+
+Producto Punto (Hadamard)
+	A.B
+	Similar a la suma o resta: Cada elemento con su homólogo en la siguiente matriz
+	
